@@ -1,0 +1,9 @@
+org\usd\csci\manufacturer\jsf\ManufacturerEntityController$ManufacturerEntityControllerConverter.class
+org\usd\csci\manufacturer\ManufacturerEntity_.class
+org\usd\csci\manufacturer\jsf\util\JsfUtil$PersistAction.class
+org\usd\csci\manufacturer\AbstractFacade.class
+org\usd\csci\manufacturer\jsf\ManufacturerEntityController.class
+org\usd\csci\manufacturer\ManufacturerEntity.class
+org\usd\csci\manufacturer\ManufacturerEntityFacade.class
+org\usd\csci\manufacturer\jsf\util\JsfUtil.class
+org\usd\csci\manufacturer\InvalidEntityException.class
